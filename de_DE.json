@@ -1,0 +1,6 @@
+{
+    "plugin-data": {
+        "name": "Kategorie-Rechte",
+        "description": "Beschränkt Autoren auf ihre eigenen Artikel und auf eine ihnen zugewiesene Kategorie. Bei Verstoß wird der Artikel automatisch als Entwurf gespeichert."
+    }
+}

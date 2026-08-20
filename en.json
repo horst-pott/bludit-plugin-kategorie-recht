@@ -1,0 +1,6 @@
+{
+    "plugin-data": {
+        "name": "Category Permissions",
+        "description": "Restricts authors to their own articles and to one assigned category. Violations are automatically saved as draft."
+    }
+}

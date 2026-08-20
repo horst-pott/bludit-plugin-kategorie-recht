@@ -1,0 +1,10 @@
+{
+    "author": "HAWK Studio & Eventservice",
+    "email": "",
+    "website": "",
+    "version": "1.0",
+    "releaseDate": "2026-07-31",
+    "license": "MIT",
+    "compatible": "3.0",
+    "notes": "Beschränkt Autoren auf ihre eigenen Artikel und auf eine ihnen zugewiesene Kategorie."
+}
